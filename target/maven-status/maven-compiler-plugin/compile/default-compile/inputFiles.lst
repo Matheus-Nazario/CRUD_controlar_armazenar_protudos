@@ -1,0 +1,11 @@
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/repositories/ProductsRepository.java
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/controllers/ProductsRestController.java
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/services/ViaCepService.java
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/entities/Distributors.java
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/services/ProductsService.java
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/repositories/DistributorsRepository.java
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/repositories/AddressesRepository.java
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/entities/Addresses.java
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/services/impl/ProductsServiceImpl.java
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/entities/Products.java
+/home/marcello/subir/CRUD_controlar_armazenar_protudos/src/main/java/br/crudcontrolararmazenarprotudos/Application.java

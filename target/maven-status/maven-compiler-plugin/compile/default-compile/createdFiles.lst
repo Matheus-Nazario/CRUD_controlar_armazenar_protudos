@@ -1,0 +1,11 @@
+br/crudcontrolararmazenarprotudos/Application.class
+br/crudcontrolararmazenarprotudos/entities/Addresses.class
+br/crudcontrolararmazenarprotudos/repositories/ProductsRepository.class
+br/crudcontrolararmazenarprotudos/services/ProductsService.class
+br/crudcontrolararmazenarprotudos/services/ViaCepService.class
+br/crudcontrolararmazenarprotudos/controllers/ProductsRestController.class
+br/crudcontrolararmazenarprotudos/entities/Products.class
+br/crudcontrolararmazenarprotudos/services/impl/ProductsServiceImpl.class
+br/crudcontrolararmazenarprotudos/repositories/AddressesRepository.class
+br/crudcontrolararmazenarprotudos/entities/Distributors.class
+br/crudcontrolararmazenarprotudos/repositories/DistributorsRepository.class
