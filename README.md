@@ -50,7 +50,7 @@ git clone https://github.com/Matheus-Nazario/CRUD_controlar_armazenar_protudos.g
 Na pasta raiz do projeto executar o comando:
 
 ```sh
-java -jar ./target/*.jar
+  ./mvnw spring-boot:run
 ```
 
 <hr>
